@@ -1,0 +1,2 @@
+1. The adapter package, in the Hexagonal Architecture, is responsible for the communication between the application and the external world.
+2. The classes in this package, can use any technology, framework, or library, to communicate with the external world, such as databases, web services, or user interfaces.
