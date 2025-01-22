@@ -1,6 +1,6 @@
 package com.xpto.distancelearning.notificationhex.adapters.configs.security;
 
-import com.xpto.distancelearning.notification.configs.security.jwt.AuthenticationJwtFilter;
+import com.xpto.distancelearning.notificationhex.adapters.configs.security.jwt.AuthenticationJwtFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
