@@ -1,0 +1,2 @@
+1. All classes that are part of the core package, in the Hexagonal architecture, are free of any dependencies on the external world.
+2. The core package is the most important package in the Hexagonal architecture, and it is the one that contains the application's business rules.
